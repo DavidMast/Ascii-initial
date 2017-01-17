@@ -88,4 +88,4 @@ and the public abstract class AbstractCaracter.*
 
 ----
 ## thanks
-* The teacher [Cyril Itchi] (https://www.linkedin.com/in/developer-php-cyril-ichti?authType=name&authToken=4HAF&trk=mirror-profile-memberlist-name)
+* The teacher [Cyril Ichti] (https://github.com/seeren)
