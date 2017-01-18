@@ -20,12 +20,12 @@ public class Big,the class corresponding to the letters initial public class D a
 
 >code example of the class Big
 
-package ascii.big;
+	package ascii.big;
 
-import ascii.AbstractFont;
-import font.CaracterInterface;
+	import ascii.AbstractFont;
+	import font.CaracterInterface;
 
-public class Big extends AbstractFont implements BigInterface
+	public class Big extends AbstractFont implements BigInterface
 
 ----
 ### ascii package
